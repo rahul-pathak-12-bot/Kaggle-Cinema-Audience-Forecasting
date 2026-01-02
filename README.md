@@ -9,7 +9,7 @@ The challenge involves large-scale time-series forecasting with real-world noise
 
 8 datasets including POS bookings, online bookings, theatre metadata, calendar information
 
-2M+ rows of anonymized transactional and time-series data
+1.6M+ rows of anonymized transactional and time-series data
 
 **Approach**
 
